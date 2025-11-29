@@ -1,0 +1,20 @@
+[
+    {
+        "id":"91a2b2ec-ae44-4263-8ece-f4d27a04f90f",
+        "name":"Lunaris",
+        "price":100000,
+        "description":"tiket untuk open campus ke ilits sigigmaga 123"
+    },
+    {
+        "id":"1a48f90e-88e9-4a92-a9d6-bf256fabd613",
+        "name":"Kirova",
+        "price":200000,
+        "description":"tiket untuk open campus ke ilits sigigmaga 123"
+    },
+    {
+        "id":"c1d7e695-2907-435e-a1a0-3c2829d0e9c1",
+        "name":"Vexora",
+        "price":300000,
+        "description":"tiket untuk open campus ke ilits sigigmaga 123"
+    }
+]
